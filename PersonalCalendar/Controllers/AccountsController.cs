@@ -6,6 +6,8 @@ namespace PersonalCalendar.Controllers
 {
     public class AccountsController : Controller
     {
+        
+
         [HttpGet]
         public IActionResult Register()
         {
